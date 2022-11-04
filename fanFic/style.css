@@ -1,0 +1,27 @@
+.container{
+background-color: gray;
+height: 1080;
+width: 1905px;
+align-items: center;
+}
+
+.nav{
+    padding: 1rem;
+    background-color: black;
+}
+
+.item-nav{
+    color: #fff;
+    padding: .8rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+main{
+    color: white;
+}
+
+footer p{
+text-align: center;
+color: white;
+font-weight: 700;
+}
